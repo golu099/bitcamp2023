@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "234332618144",
+    "project_id": "bitcamp2023-af3b6",
+    "storage_bucket": "bitcamp2023-af3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234332618144:android:0b1b371d768162430678c5",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234332618144-jnipi5cdvhhh5nptlgupq2fsnecd5cpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81Hbp_H5yd-WVj13kIlA4y5f-4baFU3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234332618144-jnipi5cdvhhh5nptlgupq2fsnecd5cpn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234332618144-276gnmimes6nmuc7fjgln21eu9go9qap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
